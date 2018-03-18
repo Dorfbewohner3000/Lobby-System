@@ -3,7 +3,7 @@ package de.Dorfbewohner3000.Main;
 import org.bukkit.Material;
 import org.bukkit.entity.Player;
 import org.bukkit.inventory.Inventory;
-import org.bukkit.inventory.ItemStack;
+
 
 public class opencompass {
     public static Inventory com(Player p){
