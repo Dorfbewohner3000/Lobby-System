@@ -1,0 +1,10 @@
+name: Lobby-System
+author: Dorfbewohner3000
+main: de.Dorfbewohner3000.Main.Main
+version: 1.0
+
+commands:
+  build:
+    description: enable/disable buildmode
+  setspawn:
+    description: set the lobby spawn
