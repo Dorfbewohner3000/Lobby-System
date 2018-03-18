@@ -2,7 +2,7 @@
   <artifact type="jar" name="lobbysys.jar">
     <output-path>$PROJECT_DIR$/out/artifacts/lobbysys_jar</output-path>
     <root id="archive" name="lobbysys.jar.jar">
-      <element id="module-output" name="lobbysystem pixelmods" />
+      <element id="module-output" name="Lobby-System" />
       <element id="extracted-dir" path="$PROJECT_DIR$/../Test_Server/spigot-1.8.8.jar" path-in-jar="/" />
     </root>
   </artifact>

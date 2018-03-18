@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/lobbysystem pixelmods.iml" filepath="$PROJECT_DIR$/lobbysystem pixelmods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lobby-System.iml" filepath="$PROJECT_DIR$/Lobby-System.iml" />
     </modules>
   </component>
 </project>
